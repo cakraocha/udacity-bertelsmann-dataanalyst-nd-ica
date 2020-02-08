@@ -1,11 +1,11 @@
-Hi guys!
+<p>Hi guys!</p>
 
-Welcome to my Udacity Data Analyst Nanodegree GitHub.
+<p>Welcome to my Udacity Data Analyst Nanodegree GitHub.
 You will find my project submission in the Udacity Data Analyst Nanodegree.
-I hope this repository can help you in finishing the nanodegree.
+I hope this repository can help you in finishing the nanodegree.</p>
 
-If you have anything to ask, please do not hesitate to contact me via:
-Email: cakraocha@gmail.com
-Facebook: https://www.facebook.com/CakraOcha
+<p>If you have anything to ask, please do not hesitate to contact me via:<br>
+Email: cakraocha@gmail.com<br>
+Facebook: https://www.facebook.com/CakraOcha</p>
 
-Happy learning! :)
+<p>Happy learning! :)</p>
