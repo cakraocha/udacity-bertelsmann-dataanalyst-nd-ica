@@ -6,6 +6,6 @@ I hope this repository can help you in finishing the nanodegree.</p>
 
 <p>If you have anything to ask, please do not hesitate to contact me via:<br>
 Email: cakraocha@gmail.com<br>
-Facebook: https://www.facebook.com/CakraOcha</p>
+Facebook: https://www.facebook.com/cakramurtiocha</p>
 
 <p>Happy learning! :)</p>
